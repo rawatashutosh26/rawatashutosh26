@@ -53,7 +53,7 @@
 
 <ul>
   <li>📧 <a href="mailto:rawatashutosh2610@gmail.com">rawatashutosh2610@gmail.com</a></li>
-  <li><a href="YOUR_LINKEDIN_URL_HERE">LinkedIn</a></li>
+  <li><a href="www.linkedin.com/in/ashutosh-singh-rawat-b68b32251">LinkedIn</a></li>
 </ul>
 
 ---

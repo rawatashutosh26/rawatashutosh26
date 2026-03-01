@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ashutosh Singh Rawat</h1>
-<h3 align="center">Data Engineer | AI/ML Developer | Software Engineer</h3>
+<h3 align="center">Software Engineer | AI/ML Developer | Data Systems Architecture</h3>
 
 <p align="center">
   <a href="mailto:rawatashutosh2610@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -12,13 +12,13 @@
 
 <h3>🌟 About Me</h3>
 
-<p>I am a final-year B.Tech CSE student at <b>VIT Bhopal University</b>. I specialize in building <b>scalable data architectures</b> and integrating <b>AI/ML models</b> into real-world applications.</p>
+<p>I am a final-year B.Tech CSE student (CGPA: 8.79) at <b>VIT Bhopal University</b>. As a Software Engineer, I specialize in architecting <b>scalable backend systems</b> and bridging the gap between raw data and real-world applications by deploying <b>machine learning models</b> and robust data pipelines into production.</p>
 
 <ul>
-  <li>💼 <b>AI/ML Intern</b> at Huwats India Pvt. Ltd.</li>
-  <li>🛠️ Core skills in <b>Data Engineering (Azure/Kafka)</b> and <b>Computer Vision</b>.</li>
-  <li>☁️ <b>Cloud Certified:</b> AWS Academy Cloud Foundations & Solutions Architect.</li>
-  <li>🎮 Hobbies: Reading novels, gaming, and listening to music.</li>
+  <li>💼 <b>AI/ML & Software Intern</b> at Huwats India Pvt. Ltd.</li>
+  <li>🛠️ Expertise spans <b>Full-Stack (MERN, Spring Boot)</b>, <b>AI/ML (Deep Learning, Computer Vision, RAG)</b>, and <b>Data Engineering (Kafka, Databricks)</b>.</li>
+  <li>☁️ <b>Cloud Certified:</b> AWS Certified Cloud Practitioner & Solutions Architect.</li>
+  <li>🎮 When offline, I enjoy reading novels, gaming, and discovering new music.</li>
 </ul>
 
 ---
@@ -46,53 +46,60 @@
 
 ---
 
-<h3>🛠️ Tech Stack</h3>
+<h3>🛠️ Comprehensive Tech Stack</h3>
 
-<p><b>Languages & Scripting</b><br>
+<p><b>Languages</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square"/>
 </p>
 
-<p><b>Data Engineering & Big Data</b><br>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?logo=elasticsearch&logoColor=white&style=flat-square"/>
+<p><b>Software Engineering & Web</b><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square"/>
 </p>
 
-<p><b>Cloud & DevOps</b><br>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?logo=azurefunctions&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square"/>
-</p>
-
-<p><b>Machine Learning & Data Science</b><br>
+<p><b>Machine Learning & AI</b><br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square"/>
 </p>
 
+<p><b>Data Engineering & Cloud</b><br>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square"/>
+</p>
+
 ---
 
-<h3>🏗️ What I Build</h3>
+<h3>🏗️ Engineering Portfolio</h3>
 
-<p>I specialize in architecting <b>scalable data ecosystems</b> and <b>intelligent applications</b>. My engineering philosophy revolves around building robust ETL pipelines and integrating AI into practical workflows.</p>
+<p>I build end-to-end systems: from scalable backend architectures and real-time streaming pipelines to the deployment of multi-modal AI models.</p>
 
 <ul>
-  <li><b>Data Architectures:</b> Designing Lakehouse architectures (Bronze/Silver/Gold) on Azure Databricks and implementing Serverless ETL pipelines.</li>
-  <li><b>Real-Time Systems:</b> Engineering high-throughput pipelines using Apache Kafka and Elastic Stack for real-time anomaly detection and analytics.</li>
-  <li><b>AI Integration:</b> Developing computer vision systems for edge detection and utilizing Generative AI (LLMs) to enhance user accessibility and healthcare diagnostics.</li>
+  <li>⚕️ <b>MedAI Pro (Full-Stack AI):</b> Developed a multi-modal medical diagnostics platform utilizing the <b>MERN stack</b>. Integrated four separate deep learning models directly into the web application to analyze Brain MRIs, Chest X-Rays, Retinal Scans, and Skin Lesions.</li>
+  <li>📫 <b>Email Job Scheduler (Backend Architecture):</b> Engineered a production-grade microservice using <b>TypeScript, Express.js, BullMQ, and Redis</b>, backed by PostgreSQL, to schedule and send emails at scale with strict rate limiting and concurrency controls.</li>
+  <li>📊 <b>Customer 360 & Churn Lakehouse (Data Engineering):</b> Designed a Medallion Architecture (Bronze/Silver/Gold layers) on <b>Azure Databricks</b> using PySpark for ETL, deploying a Spark ML model for churn prediction visualized via Power BI.</li>
+  <li>🛡️ <b>Sentinel (Security & ML):</b> Created a bot and fraud detection system leveraging mouse movement data, SQL analysis, and an Isolation Forest model to identify non-human behavior.</li>
+  <li>🌍 <b>EcoMotive (AI Logistics):</b> Developing a multi-modal logistics optimization and carbon impact tracking platform to streamline supply chains.</li>
+  <li>📈 <b>Sentiment Surveillance (Real-Time Pipelines):</b> Architected a pipeline ingesting live Reddit API data via <b>Apache Kafka</b>, processing sentiment with TextBlob, and streaming results to a dashboard via Django Channels and WebSockets.</li>
 </ul>
 
 ---
 
 <h3>📜 Certifications</h3>
 <ul>
-  <li>🏅 <b>AWS Academy</b> Cloud Foundations & Solution Architect</li>
+  <li>🏅 <b>AWS</b> Certified Cloud Practitioner</li>
+  <li>🏅 <b>AWS Academy</b> Cloud Foundations & Solutions Architect</li>
   <li>🏅 <b>IBM</b> AI Engineer</li>
   <li>🏅 <b>Microsoft</b> Azure Essentials</li>
 </ul>
@@ -106,4 +113,4 @@
   <li>🔗 <a href="https://www.linkedin.com/in/ashutosh-singh-rawat-b68b32251">LinkedIn</a></li>
 </ul>
 
-<p align="center">✨ <i>“Transforming raw data into actionable insights.”</i></p>
+<p align="center">✨ <i>“Architecting scalable software, powering it with intelligent data.”</i></p>

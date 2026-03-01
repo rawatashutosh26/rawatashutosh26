@@ -34,8 +34,8 @@
 <h3>📊 Coding Stats & Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawatashutosh26&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
-  &nbsp;
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawatashutosh26&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" /> -->
+  <!-- &nbsp; -->
   <a href="https://codolio.com/profile/ashutosh_" target="_blank">
     <img src="https://img.shields.io/badge/View_Full_Coding_Profile-Codolio-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=202020" height="50" alt="Codolio Profile" />
   </a>

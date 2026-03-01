@@ -12,7 +12,7 @@
 
 <h3>🌟 About Me</h3>
 
-<p>I am a final-year B.Tech CSE student (CGPA: 8.79) at <b>VIT Bhopal University</b>. As a Software Engineer, I specialize in architecting <b>scalable backend systems</b> and bridging the gap between raw data and real-world applications by deploying <b>machine learning models</b> and robust data pipelines into production.</p>
+<p>I am a final-year B.Tech CSE student (CGPA: 8.79) at <b>Vellore Institute Of Technology</b>. As a Software Engineer, I specialize in architecting <b>scalable backend systems</b> and bridging the gap between raw data and real-world applications by deploying <b>machine learning models</b> and robust data pipelines into production.</p>
 
 <ul>
   <li>💼 <b>AI/ML & Software Intern</b> at Huwats India Pvt. Ltd.</li>

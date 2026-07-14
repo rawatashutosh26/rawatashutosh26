@@ -10,15 +10,15 @@
 
 ---
 
-<h3>🌟 About Me</h3>
+<h3> About Me</h3>
 
 <p>I am a final-year B.Tech CSE student (CGPA: 8.79) at <b>Vellore Institute Of Technology</b>. As a Software Engineer, I specialize in architecting <b>scalable backend systems</b> and bridging the gap between raw data and real-world applications by deploying <b>machine learning models</b> and robust data pipelines into production.</p>
 
 <ul>
-  <li>💼 <b>AI/ML & Software Intern</b> at Huwats India Pvt. Ltd.</li>
+  <li> <b>AI/ML & Software Intern</b> at Huwats India Pvt. Ltd.</li>
   <!-- <li>🛠️ Expertise spans <b>Full-Stack (MERN, Spring Boot)</b>, <b>AI/ML (Deep Learning, Computer Vision, RAG)</b>, and <b>Data Engineering (Kafka, Databricks)</b>.</li> -->
   <!-- <li>☁️ <b>Cloud Certified:</b> AWS Certified Cloud Practitioner</li> -->
-  <li>🎮 When offline, I enjoy reading novels, gaming, and discovering new music.</li>
+  <li> When offline, I enjoy reading novels, gaming, and discovering new music.</li>
 </ul>
 
 ---
@@ -46,7 +46,7 @@
 
 ---
 
-<h3>🛠️ Comprehensive Tech Stack</h3>
+<h3> Comprehensive Tech Stack</h3>
 
 <p><b>Languages</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
@@ -81,36 +81,35 @@
 
 ---
 
-<h3>🏗️ Engineering Portfolio</h3>
+<h3> Portfolio</h3>
 
 <p>I build end-to-end systems: from scalable backend architectures and real-time streaming pipelines to the deployment of multi-modal AI models.</p>
 
 <ul>
-  <li>⚕️ <b>MedAI Pro (Full-Stack AI):</b> Developed a multi-modal medical diagnostics platform utilizing the <b>MERN stack</b>. Integrated four separate deep learning models directly into the web application to analyze Brain MRIs, Chest X-Rays, Retinal Scans, and Skin Lesions.</li>
-  <li>📫 <b>Email Job Scheduler (Backend Architecture):</b> Engineered a production-grade microservice using <b>TypeScript, Express.js, BullMQ, and Redis</b>, backed by PostgreSQL, to schedule and send emails at scale with strict rate limiting and concurrency controls.</li>
-  <li>📊 <b>Customer 360 & Churn Lakehouse (Data Engineering):</b> Designed a Medallion Architecture (Bronze/Silver/Gold layers) on <b>Azure Databricks</b> using PySpark for ETL, deploying a Spark ML model for churn prediction visualized via Power BI.</li>
-  <li>🛡️ <b>Sentinel (Security & ML):</b> Created a bot and fraud detection system leveraging mouse movement data, SQL analysis, and an Isolation Forest model to identify non-human behavior.</li>
-  <li>🌍 <b>EcoMotive (AI Logistics):</b> Developing a multi-modal logistics optimization and carbon impact tracking platform to streamline supply chains.</li>
-  <li>📈 <b>Sentiment Surveillance (Real-Time Pipelines):</b> Architected a pipeline ingesting live Reddit API data via <b>Apache Kafka</b>, processing sentiment with TextBlob, and streaming results to a dashboard via Django Channels and WebSockets.</li>
+  <li> <b>MedAI Pro (Full-Stack AI):</b> Developed a multi-modal medical diagnostics platform utilizing the <b>MERN stack</b>. Integrated four separate deep learning models directly into the web application to analyze Brain MRIs, Chest X-Rays, Retinal Scans, and Skin Lesions.</li>
+  <li> <b>Email Job Scheduler (Backend Architecture):</b> Engineered a production-grade microservice using <b>TypeScript, Express.js, BullMQ, and Redis</b>, backed by PostgreSQL, to schedule and send emails at scale with strict rate limiting and concurrency controls.</li>
+  <li> <b>Customer 360 & Churn Lakehouse (Data Engineering):</b> Designed a Medallion Architecture (Bronze/Silver/Gold layers) on <b>Azure Databricks</b> using PySpark for ETL, deploying a Spark ML model for churn prediction visualized via Power BI.</li>
+  <li> <b>Sentinel (Security & ML):</b> Created a bot and fraud detection system leveraging mouse movement data, SQL analysis, and an Isolation Forest model to identify non-human behavior.</li>
+  <li> <b>EcoMotive (AI Logistics):</b> Developing a multi-modal logistics optimization and carbon impact tracking platform to streamline supply chains.</li>
+  <li> <b>Sentiment Surveillance (Real-Time Pipelines):</b> Architected a pipeline ingesting live Reddit API data via <b>Apache Kafka</b>, processing sentiment with TextBlob, and streaming results to a dashboard via Django Channels and WebSockets.</li>
 </ul>
 
 ---
 
 <h3>📜 Certifications</h3>
 <ul>
-  <li>🏅 <b>AWS</b> Certified Cloud Practitioner</li>
-  <li>🏅 <b>AWS Academy</b> Cloud Foundations & Solutions Architect</li>
-  <li>🏅 <b>IBM</b> AI Engineer</li>
-  <li>🏅 <b>Microsoft</b> Azure Essentials</li>
+  <li> <b>AWS</b> Certified Cloud Practitioner</li>
+  <li> <b>AWS Academy</b> Cloud Foundations & Solutions Architect</li>
+  <li> <b>IBM</b> AI Engineer</li>
+  <li> <b>Microsoft</b> Azure Essentials</li>
 </ul>
 
 ---
 
-<h3>📫 Get in Touch</h3>
+<h3> Get in Touch</h3>
 
 <ul>
-  <li>📧 <a href="mailto:rawatashutosh2610@gmail.com">rawatashutosh2610@gmail.com</a></li>
-  <li>🔗 <a href="https://www.linkedin.com/in/ashutosh-singh-rawat-b68b32251">LinkedIn</a></li>
+  <li> <a href="mailto:rawatashutosh2610@gmail.com">rawatashutosh2610@gmail.com</a></li>
+  <li> <a href="https://www.linkedin.com/in/ashutosh-singh-rawat-b68b32251">LinkedIn</a></li>
 </ul>
 
-<p align="center">✨ <i>“Architecting scalable software, powering it with intelligent data.”</i></p>

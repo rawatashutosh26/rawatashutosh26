@@ -16,6 +16,7 @@
 
 <ul>
   <li> <b>AI/ML & Software Intern</b> at Huwats India Pvt. Ltd.</li>
+  <li> <b>AI Engineer Intern</b> at IIT Delhi</li>
   <!-- <li>🛠️ Expertise spans <b>Full-Stack (MERN, Spring Boot)</b>, <b>AI/ML (Deep Learning, Computer Vision, RAG)</b>, and <b>Data Engineering (Kafka, Databricks)</b>.</li> -->
   <!-- <li>☁️ <b>Cloud Certified:</b> AWS Certified Cloud Practitioner</li> -->
   <li> When offline, I enjoy reading novels, gaming, and discovering new music.</li>

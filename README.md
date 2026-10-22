@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ashutosh Singh Rawat</h1>
-<h3 align="center">Software Developer | AWS Certified Cloud Practitioner</h3>
+<h3 align="center">Software Developer | AI/ML & Backend | AWS Certified Cloud Practitioner</h3>
 
 <p align="center">
   <a href="mailto:rawatashutosh2610@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -10,44 +10,49 @@
 
 ---
 
-<h3> About Me</h3>
+### About Me
 
-<p>I am a recent graduate B.Tech CSE student (CGPA: 8.86) at <b>Vellore Institute Of Technology</b>. As a Software Engineer, I specialize in architecting <b>scalable backend systems</b> and bridging the gap between raw data and real-world applications by deploying <b>machine learning models</b> and robust data pipelines into production.</p>
+I recently graduated with a B.Tech in Computer Science and Engineering (CGPA 8.86) from **Vellore Institute of Technology**. I like building backend systems and AI-powered applications, and getting machine learning models and data pipelines running in real applications.
 
-<ul>
-  <li> <b>AI/ML & Software Intern</b> at Huwats India Pvt. Ltd.</li>
-  <li> <b>AI Engineer Intern</b> at IIT Delhi</li>
-  <!-- <li>🛠️ Expertise spans <b>Full-Stack (MERN, Spring Boot)</b>, <b>AI/ML (Deep Learning, Computer Vision, RAG)</b>, and <b>Data Engineering (Kafka, Databricks)</b>.</li> -->
-  <!-- <li>☁️ <b>Cloud Certified:</b> AWS Certified Cloud Practitioner</li> -->
-  <li> When offline, I enjoy reading novels, gaming, and discovering new music.</li>
-</ul>
+- **AI System Evaluation Intern** at AirDawg Labs (Caudal AI): building edge-case datasets to test AI agents and find where LLMs fail
+- **AI Engineer Intern** at IIT Delhi: ML models and RAG pipelines
+- **AI/ML Intern** at Huwats India Pvt. Ltd: real-time object detection with OpenCV
+- Outside of code, I read novels, play games and look for new music.
 
 ---
 
-<h3>🐍 GitHub Activity</h3>
+### Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rawatashutosh26/rawatashutosh26/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</p>
+**[CodePilot](https://github.com/rawatashutosh26/rawatashutosh26/edit/main/README.md): Automated SRE & Incident Remediation Platform**
+Detects microservice failures, works out whether the cause is in the database, infrastructure or network layer, and applies a fix. Uses a cyclic LangGraph state machine for triage and recovery, and PostgreSQL with pgvector and FastEmbed to match incidents to SOP runbooks. Takes alerts from Prometheus Alertmanager, Datadog and Grafana, and has Advise-Only and Auto-Fix modes plus an anti-flapping circuit breaker.
+`Python` `FastAPI` `LangGraph` `PostgreSQL` `pgvector` `FastEmbed` `Docker SDK`
+
+**[DocFlow](https://github.com/rawatashutosh26/DocFlow): Enterprise Collaborative Document Management System**
+A document collaboration platform with rich-text editing, team workspaces and review workflows. Check-in/check-out locks tied to user sessions prevent edit collisions, every version is saved as an immutable snapshot, and an audit log records document actions. Includes role-based access control and PDF/DOCX export.
+`Next.js` `React` `TypeScript` `PostgreSQL` `Prisma` `NextAuth.js` `Tailwind CSS`
+
+**[MedAI Pro](https://github.com/rawatashutosh26/MedAI): Medical Imaging & Sepsis Risk Platform**
+A full-stack platform for chest X-ray, brain MRI, retinal scan and skin lesion analysis, plus an ICU sepsis risk model. Built with a React frontend, an Express backend with JWT auth, and a FastAPI service that serves the ML models. Deployed with Docker on Hugging Face Spaces. [Live app](https://rawatashu26-medai.hf.space/)
+`React` `Node.js` `FastAPI` `TensorFlow` `PyTorch` `MongoDB` `Docker`
+
+**[OmniServe AI Gateway](https://github.com/rawatashutosh26/OmniServe-AI-Gateway): Event-Driven ML Microservices**
+A FastAPI gateway that routes inference requests to a separate ML backend over gRPC, with Redis-backed rate limiting, PostgreSQL API key checks, Kafka for request telemetry, ClickHouse for analytics and Grafana dashboards. Runs with Docker Compose.
+`FastAPI` `gRPC` `Kafka` `Redis` `PostgreSQL` `ClickHouse` `Grafana` `Docker`
+
+**[Commercial Risk Decision Engine](https://github.com/rawatashutosh26/Commercial-Risk-Decision-Engine): Customer Churn on Azure Databricks**
+An end-to-end data engineering and ML pipeline that predicts customer churn and identifies high-value customers, using a Bronze/Silver/Gold medallion architecture with PySpark.
+`Azure Databricks` `PySpark` `Spark ML` `Power BI`
+
+**[Sentiment Surveillance](https://github.com/rawatashutosh26/Sentiment-Surveillance): Real-Time Pipeline**
+Streams live Reddit data through Apache Kafka, scores sentiment with TextBlob, and pushes results to a live dashboard using Django Channels and WebSockets.
+`Kafka` `Django` `WebSockets` `Python`
+
+**[EcoMotive](https://github.com/rawatashutosh26/EcoMotive): AI Logistics (in progress)**
+A logistics optimization and carbon impact tracking platform for supply chains.
 
 ---
 
-<h3>📊 Coding Stats & Languages</h3>
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawatashutosh26&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" /> -->
-  <!-- &nbsp; -->
-  <a href="https://codolio.com/profile/ashutosh_" target="_blank">
-    <img src="https://img.shields.io/badge/View_Full_Coding_Profile-Codolio-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=202020" height="50" alt="Codolio Profile" />
-  </a>
-</p>
-<p align="center">
-    <i>My Competitive Programming stats (LeetCode, GFG, Codeforces) are aggregated on Codolio.</i>
-</p>
-
----
-
-<h3> Comprehensive Tech Stack</h3>
+### Tech Stack
 
 <p><b>Languages</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
@@ -57,18 +62,27 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square"/>
 </p>
 
-<p><b>Software Engineering & Web</b><br>
+<p><b>Backend & Web</b><br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square"/>
+</p>
+
+<p><b>Databases</b><br>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square"/>
 </p>
 
 <p><b>Machine Learning & AI</b><br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square"/>
 </p>
 
@@ -78,39 +92,40 @@
   <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
 </p>
 
 ---
 
-<h3> Portfolio</h3>
+### Certifications
 
-<p>I build end-to-end systems: from scalable backend architectures and real-time streaming pipelines to the deployment of multi-modal AI models.</p>
-
-<ul>
-  <li> <b>MedAI Pro (Full-Stack AI):</b> Developed a multi-modal medical diagnostics platform utilizing the <b>MERN stack</b>. Integrated four separate deep learning models directly into the web application to analyze Brain MRIs, Chest X-Rays, Retinal Scans, and Skin Lesions.</li>
-  <li> <b>Email Job Scheduler (Backend Architecture):</b> Engineered a production-grade microservice using <b>TypeScript, Express.js, BullMQ, and Redis</b>, backed by PostgreSQL, to schedule and send emails at scale with strict rate limiting and concurrency controls.</li>
-  <li> <b>Customer 360 & Churn Lakehouse (Data Engineering):</b> Designed a Medallion Architecture (Bronze/Silver/Gold layers) on <b>Azure Databricks</b> using PySpark for ETL, deploying a Spark ML model for churn prediction visualized via Power BI.</li>
-  <li> <b>Sentinel (Security & ML):</b> Created a bot and fraud detection system leveraging mouse movement data, SQL analysis, and an Isolation Forest model to identify non-human behavior.</li>
-  <li> <b>EcoMotive (AI Logistics):</b> Developing a multi-modal logistics optimization and carbon impact tracking platform to streamline supply chains.</li>
-  <li> <b>Sentiment Surveillance (Real-Time Pipelines):</b> Architected a pipeline ingesting live Reddit API data via <b>Apache Kafka</b>, processing sentiment with TextBlob, and streaming results to a dashboard via Django Channels and WebSockets.</li>
-</ul>
+- **AWS** Certified Cloud Practitioner
+- **AWS Academy** Cloud Foundations & Solutions Architect
+- **IBM** AI Engineer
+- **Microsoft** Azure Essentials
 
 ---
 
-<h3>📜 Certifications</h3>
-<ul>
-  <li> <b>AWS</b> Certified Cloud Practitioner</li>
-  <li> <b>AWS Academy</b> Cloud Foundations & Solutions Architect</li>
-  <li> <b>IBM</b> AI Engineer</li>
-  <li> <b>Microsoft</b> Azure Essentials</li>
-</ul>
+### Coding Stats
+
+<p align="center">
+  <a href="https://codolio.com/profile/ashutosh_" target="_blank">
+    <img src="https://img.shields.io/badge/View_Full_Coding_Profile-Codolio-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=202020" height="50" alt="Codolio Profile" />
+  </a>
+</p>
+<p align="center">
+  <i>My competitive programming stats (LeetCode, GFG, Codeforces) are on Codolio.</i>
+</p>
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rawatashutosh26/rawatashutosh26/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</p>
 
 ---
 
-<h3> Get in Touch</h3>
+### Get in Touch
 
-<ul>
-  <li> <a href="mailto:rawatashutosh2610@gmail.com">rawatashutosh2610@gmail.com</a></li>
-  <li> <a href="https://www.linkedin.com/in/ashutosh-singh-rawat-b68b32251">LinkedIn</a></li>
-</ul>
-
+- 📧 [rawatashutosh2610@gmail.com](mailto:rawatashutosh2610@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-singh-rawat-b68b32251)

@@ -12,7 +12,7 @@
 
 ### About Me
 
-I recently graduated with a B.Tech in Computer Science and Engineering (CGPA 8.86) from **Vellore Institute of Technology**. I like building backend systems and AI-powered applications, and getting machine learning models and data pipelines running in real applications.
+I recently graduated with a B.Tech in Computer Science and Engineering (CGPA 8.86) from **Vellore Institute of Technology**. I like building backend systems, AI-powered applications and getting machine learning models and data pipelines running in real applications.
 
 - **AI System Evaluation Intern** at AirDawg Labs (Caudal AI): building edge-case datasets to test AI agents and find where LLMs fail
 - **AI Engineer Intern** at IIT Delhi: ML models and RAG pipelines
@@ -24,8 +24,8 @@ I recently graduated with a B.Tech in Computer Science and Engineering (CGPA 8.8
 ### Projects
 
 **[CodePilot](https://github.com/rawatashutosh26/rawatashutosh26/edit/main/README.md): Automated SRE & Incident Remediation Platform**
-Detects microservice failures, works out whether the cause is in the database, infrastructure or network layer, and applies a fix. Uses a cyclic LangGraph state machine for triage and recovery, and PostgreSQL with pgvector and FastEmbed to match incidents to SOP runbooks. Takes alerts from Prometheus Alertmanager, Datadog and Grafana, and has Advise-Only and Auto-Fix modes plus an anti-flapping circuit breaker.
-`Python` `FastAPI` `LangGraph` `PostgreSQL` `pgvector` `FastEmbed` `Docker SDK`
+Detects microservice failures, works out whether the cause is in the database, infrastructure or network layer and applies a fix. Uses a cyclic LangGraph state machine for triage and recovery and PostgreSQL with pgvector and FastEmbed to match incidents to SOP runbooks. Takes alerts from Prometheus Alertmanager, Datadog and Grafana and has Advise-Only and Auto-Fix modes plus an anti-flapping circuit breaker.
+`Python` `FastAPI` `LangGraph` `LLM` `RAG` `PostgreSQL` `pgvector` `FastEmbed` `Docker SDK`
 
 **[DocFlow](https://github.com/rawatashutosh26/DocFlow): Enterprise Collaborative Document Management System**
 A document collaboration platform with rich-text editing, team workspaces and review workflows. Check-in/check-out locks tied to user sessions prevent edit collisions, every version is saved as an immutable snapshot, and an audit log records document actions. Includes role-based access control and PDF/DOCX export.

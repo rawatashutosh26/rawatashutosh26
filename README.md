@@ -17,7 +17,6 @@ I recently graduated with a B.Tech in Computer Science and Engineering (CGPA 8.8
 - **AI System Evaluation Intern** at AirDawg Labs (Caudal AI): building edge-case datasets to test AI agents and find where LLMs fail
 - **AI Engineer Intern** at IIT Delhi: ML models and RAG pipelines
 - **AI/ML Intern** at Huwats India Pvt. Ltd: real-time object detection with OpenCV
-- Outside of code, I read novels, play games and look for new music.
 
 ---
 
